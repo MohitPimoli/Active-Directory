@@ -1,4 +1,4 @@
-[<img src="[https://cdn.worldvectorlogo.com/logos/active-directory-1.svg">](https://cdn.worldvectorlogo.com/logos/active-directory-1.svg)
+[<img src="[https://i.postimg.cc/9M8F6tYg/active-directory-1.png">](https://i.postimg.cc/9M8F6tYg/active-directory-1.png)
 # Active Directory
 ### *Comprehensive Guide for System Admins and Red Teams*
 
