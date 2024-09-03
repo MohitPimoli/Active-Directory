@@ -1,4 +1,7 @@
-# Active Directory: Comprehensive Guide for System Admins and Red Teams
+[<img src="[https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" align="center">](https://cdn.worldvectorlogo.com/logos/active-directory-1.svg)
+# Active Directory
+### *Comprehensive Guide for System Admins and Red Teams*
+
 
 ---
 
