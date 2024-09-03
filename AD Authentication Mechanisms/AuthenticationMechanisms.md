@@ -63,7 +63,8 @@ Kerberos uses a trusted third-party, the Key Distribution Center (KDC), which in
 - **Client** uses the TGT to request service tickets from the TGS.
 - **Service tickets** are presented to the target server to gain access to resources.
 
-![ad9707aea0e0940ecbab37f5fb038a96.png](:/23e8c5566828407da0a34d258f1f114f)
+![Screenshot 2024-09-03 091611](https://github.com/user-attachments/assets/ee30d852-b7dd-44fa-8025-6464e0ae57b2)
+
 
 ### Advantages
 
