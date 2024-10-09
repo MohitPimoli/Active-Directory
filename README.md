@@ -36,7 +36,6 @@ Welcome to the Active Directory: Comprehensive Guide for System Admins and Red T
 
 ## Repository Structure
 
-```sh
 └── [Active Directory/](https://github.com/MohitPimoli/Active-Directory)
     ├── [AD Overview](https://github.com/MohitPimoli/Active-Directory/blob/main/Active%20Directory%20Overview/Overview.md)
     ├── [AD Domain Controller](https://github.com/MohitPimoli/Active-Directory/blob/main/AD%20Domain%20Controller/DomainController.md)
@@ -44,8 +43,6 @@ Welcome to the Active Directory: Comprehensive Guide for System Admins and Red T
     ├── Another Topic
     ├── Yet Another Topic
     └── Final Topic
-
-```
 
 ---
 
