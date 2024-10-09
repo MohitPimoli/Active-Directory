@@ -36,7 +36,7 @@ Welcome to the Active Directory: Comprehensive Guide for System Admins and Red T
 
 ## Repository Structure
 
-└── [Active Directory/](https://github.com/MohitPimoli/Active-Directory)
+[Active Directory/](https://github.com/MohitPimoli/Active-Directory)
     ├── [AD Overview](https://github.com/MohitPimoli/Active-Directory/blob/main/Active%20Directory%20Overview/Overview.md)
     ├── [AD Domain Controller](https://github.com/MohitPimoli/Active-Directory/blob/main/AD%20Domain%20Controller/DomainController.md)
     ├── [AD Authentication Mechanisms](https://github.com/MohitPimoli/Active-Directory/blob/main/AD%20Authentication%20Mechanisms/AuthenticationMechanisms.md)
