@@ -1,6 +1,6 @@
 ![active-directory-1](https://github.com/user-attachments/assets/c8bc515f-3b13-47cd-ba2a-6247d59f208d)
-### *Comprehensive Guide for System Admins and Red Teams*
 
+### _Comprehensive Guide for System Admins and Red Teams_
 
 ---
 
